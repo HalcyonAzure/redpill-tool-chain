@@ -1,0 +1,11 @@
+{
+    "extra_cmdline": {
+        "pid": "0xEF18",
+        "vid": "0x23A9",
+        "sn": "18C1PDN249708",
+        "mac1": "001132A17289"
+    },
+    "synoinfo": {},
+    "ramdisk_copy": {},
+    "extensions": []
+}
